@@ -33,7 +33,7 @@
 # Churn: Whether the customer has churned (Yes or No) - Customers who have left in the last month or quarter
 
 
-# Gerekli Kütüphane ve Fonksiyonlar
+# Required Libraries and Functions
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
