@@ -450,9 +450,3 @@ plot_importance(rf_model, X)
 
 
 
-
-
-
-
-# Bakılsın
-# [col for col in df.columns if df[col].eq(0).any()]
